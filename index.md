@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal.
+---
+hide:
+  - title
+---
 # Стальные трубчатые радиаторы отопления
 
 
